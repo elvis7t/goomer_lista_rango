@@ -1,5 +1,0 @@
-db/data/
-node_modules
-coverage
-.env
-dist
